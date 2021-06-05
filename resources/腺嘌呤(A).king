@@ -1,0 +1,45 @@
+Begin Header
+KingDraw V2.3
+20180420
+End Header
+Begin Device
+device=[{"device":"1","version":"2.5.4"},{"device":"1","version":"2.5.4"}]
+End Device
+Begin SysConfig
+{"DrawingSettings":"{\"documentType\":1,\"fixedLength\":\"0.78\",\"spacing\":\"12\",\"lineWidth\":\"0.0312\",\"boldWidth\":\"0.0936\",\"marginWidth\":\"0.0312\",\"hashSpacing\":\"0.0624\",\"chainsAngle\":120,\"atomFontName\":\"Arial\",\"atomFontStyle\":1,\"atomFontSize\":10,\"textFontName\":\"Arial\",\"textFontStyle\":1,\"textFontSize\":10}"}
+End SysConfig
+Begin Ctab
+Begin Atom
+1 N 3.1068 2.2211 #ff304ff7 Direct=0 Label=N Text=Tg== LayerIndex=0 FaceHtml=PHNwYW4gZm9udD0iQXJpYWwiIHNpemU9IjEwIiBmc3R5bGU9IjEiIGRyYXd0eXBlPSIzIiBjb2xvcj0iI0ZGMDAwMDAwIj5OPC9zcGFuPg==
+2 C 3.1068 3.0011 #ff000000 Direct=0 Label=C Text=Qw== LayerIndex=0 FaceHtml=PHNwYW4gZm9udD0iQXJpYWwiIHNpemU9IjEwIiBmc3R5bGU9IjEiIGRyYXd0eXBlPSIzIiBjb2xvcj0iI0ZGMDAwMDAwIj5DPC9zcGFuPg==
+3 N 3.7822 3.3910 #ff304ff7 Direct=0 Label=N Text=Tg== LayerIndex=0 FaceHtml=PHNwYW4gZm9udD0iQXJpYWwiIHNpemU9IjEwIiBmc3R5bGU9IjEiIGRyYXd0eXBlPSIzIiBjb2xvcj0iI0ZGMDAwMDAwIj5OPC9zcGFuPg==
+4 C 4.4579 3.0011 #ff000000 Direct=0 Label=C Text=Qw== LayerIndex=0 FaceHtml=PHNwYW4gZm9udD0iQXJpYWwiIHNpemU9IjEwIiBmc3R5bGU9IjEiIGRyYXd0eXBlPSIzIiBjb2xvcj0iI0ZGMDAwMDAwIj5DPC9zcGFuPg==
+5 N 5.1996 3.2421 #ff304ff7 Direct=0 Label=N Text=Tg== LayerIndex=0 FaceHtml=PHNwYW4gZm9udD0iQXJpYWwiIHNpemU9IjEwIiBmc3R5bGU9IjEiIGRyYXd0eXBlPSIzIiBjb2xvcj0iI0ZGMDAwMDAwIj5OPC9zcGFuPg==
+6 C 5.6581 2.6110 #ff000000 Direct=0 Label=C Text=Qw== LayerIndex=0 FaceHtml=PHNwYW4gZm9udD0iQXJpYWwiIHNpemU9IjEwIiBmc3R5bGU9IjEiIGRyYXd0eXBlPSIzIiBjb2xvcj0iI0ZGMDAwMDAwIj5DPC9zcGFuPg==
+7 N 5.1996 1.9801 #ff304ff7 Direct=0 Label=N Text=Tg== LayerIndex=0 FaceHtml=PHNwYW4gZm9udD0iQXJpYWwiIHNpemU9IjEwIiBmc3R5bGU9IjEiIGRyYXd0eXBlPSIzIiBjb2xvcj0iI0ZGMDAwMDAwIj5OPC9zcGFuPg==
+8 C 4.4579 2.2211 #ff000000 Direct=0 Label=C Text=Qw== LayerIndex=0 FaceHtml=PHNwYW4gZm9udD0iQXJpYWwiIHNpemU9IjEwIiBmc3R5bGU9IjEiIGRyYXd0eXBlPSIzIiBjb2xvcj0iI0ZGMDAwMDAwIj5DPC9zcGFuPg==
+9 C 3.7822 1.8309 #ff000000 Direct=0 Label=C Text=Qw== LayerIndex=0 FaceHtml=PHNwYW4gZm9udD0iQXJpYWwiIHNpemU9IjEwIiBmc3R5bGU9IjEiIGRyYXd0eXBlPSIzIiBjb2xvcj0iI0ZGMDAwMDAwIj5DPC9zcGFuPg==
+10 N 3.7822 1.0511 #ff304ff7 Direct=0 Label=NH2 Text=Tkgy HCount=2 LayerIndex=0 FaceHtml=PHNwYW4gZm9udD0iQXJpYWwiIHNpemU9IjEwIiBmc3R5bGU9IjEiIGRyYXd0eXBlPSIzIiBjb2xvcj0iI0ZGMDAwMDAwIj5OSDwvc3Bhbj48c3BhbiBmb250PSJBcmlhbCIgc2l6ZT0iMTAiIGZzdHlsZT0iMSIgZHJhd3R5cGU9IjQiIGNvbG9yPSIjRkYwMDAwMDAiPjI8L3NwYW4+
+11 H 6.4380 2.6110 #ff888888 Direct=0 Label=H Text=SA== LayerIndex=0 FaceHtml=PHNwYW4gZm9udD0iQXJpYWwiIHNpemU9IjEwIiBmc3R5bGU9IjEiIGRyYXd0eXBlPSIzIiBjb2xvcj0iI0ZGMDAwMDAwIj5IPC9zcGFuPg==
+12 H 5.1996 4.0219 #ff888888 Direct=0 Label=H Text=SA== LayerIndex=0 FaceHtml=PHNwYW4gZm9udD0iQXJpYWwiIHNpemU9IjEwIiBmc3R5bGU9IjEiIGRyYXd0eXBlPSIzIiBjb2xvcj0iI0ZGMDAwMDAwIj5IPC9zcGFuPg==
+13 H 2.3268 3.0011 #ff888888 Direct=0 Label=H Text=SA== LayerIndex=0 FaceHtml=PHNwYW4gZm9udD0iQXJpYWwiIHNpemU9IjEwIiBmc3R5bGU9IjEiIGRyYXd0eXBlPSIzIiBjb2xvcj0iI0ZGMDAwMDAwIj5IPC9zcGFuPg==
+14 H 1.4350 0.4537 #ff888888 Direct=0 Label=HH Text=SEg= HCount=1 LayerIndex=2 FaceHtml=PHNwYW4gZm9udD0iQXJpYWwiIHNpemU9IjEwIiBmc3R5bGU9IjEiIGRyYXd0eXBlPSIzIiBjb2xvcj0iI0ZGMDAwMDAwIj5ISDwvc3Bhbj4=
+End Atom
+Begin Bond
+1 1 2 1 2 #FF000000 LayerIndex=1
+2 2 2 3 1 #FF000000 LayerIndex=0
+3 1 4 3 2 #FF000000 LayerIndex=1
+4 1 5 4 2 #FF000000 LayerIndex=1
+5 1 6 5 2 #FF000000 LayerIndex=1
+6 2 7 6 2 #FF000000 LayerIndex=0
+7 1 8 7 2 #FF000000 LayerIndex=1
+8 1 9 8 2 #FF000000 LayerIndex=1
+9 1 9 10 0 #FF000000 LayerIndex=0
+10 2 8 4 2 #FF000000 LayerIndex=0
+11 1 6 11 2 #FF000000 LayerIndex=1
+12 1 5 12 2 #FF000000 LayerIndex=1
+13 2 1 9 2 #FF000000 LayerIndex=0
+14 1 2 13 2 #FF000000 LayerIndex=1
+End Bond
+End Ctab
+END
